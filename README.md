@@ -54,15 +54,6 @@ Desenvolvo ferramentas internas que acompanham produção, medem eficiência das
 
 ---
 
-## Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=axcostadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axcostadev&layout=compact&hide_border=true&theme=github_dark" alt="Top linguagens" />
-</p>
-
----
-
 ## Contato
 
 <p>
